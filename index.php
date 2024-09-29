@@ -31,7 +31,6 @@
 
         Preço: <input type="text" name="preco"><br>
 
-        <!--Não nego aqui tive que apelar para o famoso, mais não é tão difícil quanto imaginei -->
         Data:  
         <select name="data">
             <?php 
